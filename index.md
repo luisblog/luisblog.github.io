@@ -9,6 +9,7 @@ Para editar una nueva entrada
 
 Date       | Segment
 ---------- | ---
+2020/10/15 | [GCP basics](./gcp-basics.md)
 2020/10/15 | [Statement](./statement.md)
 
 # Notes on Github Pages
