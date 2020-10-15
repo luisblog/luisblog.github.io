@@ -1,6 +1,6 @@
 # Crear una nueva entrada
 
-Self link: luisblog.github.io
+Self link: [luisblog.github.io](luisblog.github.io)
 
 Para editar una nueva entrada
 
