@@ -1,5 +1,10 @@
 # Crear una nueva entrada
-Para editar una nueva entrada ve a [editor on GitHub](https://github.com/luisblog/luisblog.github.io/edit/main/index.md).
+Para editar una nueva entrada
+
+- [Crea una nueva página](https://github.com/luisblog/luisblog.github.io/new/main).
+- [Añade la página en la sección de contenidos](https://github.com/luisblog/luisblog.github.io/edit/main/index.md)
+
+# Contenidos
 
 
 
