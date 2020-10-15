@@ -1,4 +1,7 @@
 # Crear una nueva entrada
+
+Self link: luisblog.github.io
+
 Para editar una nueva entrada
 
 - <a href="https://github.com/luisblog/luisblog.github.io/new/main" target="_blank">Crea una nueva página</a>
