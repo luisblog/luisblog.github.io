@@ -1,3 +1,2 @@
 # luisblog.github.io
-My personal blog
-[luisizq.github.io](luisizq.github.io)
+My personal blog [luisblog.github.io](luisblog.github.io)
