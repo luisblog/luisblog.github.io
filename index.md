@@ -1,8 +1,9 @@
 # Crear una nueva entrada
 Para editar una nueva entrada
 
-- [Crea una nueva página](https://github.com/luisblog/luisblog.github.io/new/main).
-- [Añade la página en la sección de contenidos](https://github.com/luisblog/luisblog.github.io/edit/main/index.md)
+- <a href="https://github.com/luisblog/luisblog.github.io/new/main" target="_blank">Crea una nueva página</a>
+- <a href="https://github.com/luisblog/luisblog.github.io/edit/main/index.md" target="_blank">Añade la página en la sección de contenidos</a>
+
 
 # Contenidos
 
