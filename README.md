@@ -1,2 +1,3 @@
-# luisblog.github.io
-My personal blog [luisblog.github.io](https://luisblog.github.io)
+# My personal blog
+
+Check it out at https://luisblog.github.io
